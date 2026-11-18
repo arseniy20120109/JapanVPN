@@ -7,7 +7,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Lightweight](https://img.shields.io/badge/optimized-for%20weak%20phones-ff69b4?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0-6a1b4d?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.1-6a1b4d?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 **Быстрый, лёгкий и безопасный VPN-клиент, созданный для слабых телефонов.**
